@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
+<img src="ac_mods.png" alt="Yuzzu" width="300" />
 
 # AC MODS OFC
 
